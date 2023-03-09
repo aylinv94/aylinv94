@@ -14,7 +14,7 @@ I'm Aylin Sequera!
 
 <!-- PROFESSION AND LOCATION-->
 <h2 align="center">
-Data Engineer | Data Analyst | Data Scientist | Abogado
+Data Engineer | Data Analyst | Data Scientist | Lawyer
 </h2>
 <div align="center">
   <img src=https://img.shields.io/badge/Lives-Venezuela-brightgreen?style=flat alt=devto
@@ -29,7 +29,7 @@ Data Engineer | Data Analyst | Data Scientist | Abogado
 Something about me...
 </h2> 
 
-* *Data Scientist with Lawer background and more than 7 years of experience in legal and sales department*  
+* *Data Scientist with Lawyer background and more than 7 years of experience in legal and sales department*  
 * *I am open in working with **new tech stack**, always trying to **improve myself***
 * *I consider myself a **critical thinker** and a **problem solver person***
 
